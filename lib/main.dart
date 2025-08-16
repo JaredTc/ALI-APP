@@ -38,6 +38,7 @@ class MyApp extends StatelessWidget {
             return snapshot.data ??  AuthScreen();
           }
         },
+       
       ),
     );
   }
